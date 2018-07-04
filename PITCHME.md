@@ -6,11 +6,12 @@ Getting Started with Oracle Cloud Infrastructure
 
 ---
 
-### Flux Design
+### Regions + Avaiability Domains + Backbone Network 
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Regions serve different geographies – provide Disaster Recovery capability
+- Availability Domains – provide a High Availability foundation within a region
+- Backbone Network + Peering – private connectivity between regions and direct peering
+
 
 ---
 
