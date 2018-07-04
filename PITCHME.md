@@ -8,9 +8,9 @@ Getting Started with Oracle Cloud Infrastructure
 
  #### Regions + Avaiability Domains + Backbone Network 
 
-@size[1.0em](-- Regions serve different geographies – provide Disaster Recovery capability)
-@size[1.0em](-- Availability Domains – provide a High Availability foundation within a region)
-- @size[1.0em](Backbone Network + Peering – private connectivity between regions and direct peering)
+- @size[0.7em](Regions serve different geographies – provide Disaster Recovery capability)
+- @size[0.7em](Availability Domains – provide a High Availability foundation within a region)
+- @size[0.7em](Backbone Network + Peering – private connectivity between regions and direct peering)
 
 
 ---
