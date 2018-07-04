@@ -1,6 +1,6 @@
-# Getting Started with Oracle Cloud Infrastructure
 
-June 2018
+
+Getting Started with Oracle Cloud Infrastructure
 
 ---
 
