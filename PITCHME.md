@@ -1,6 +1,6 @@
-# Flux 
+# Getting Started with Oracle Cloud Infrastructure
 
-An application architecture for React
+June 2018
 
 ---
 
