@@ -1,6 +1,8 @@
 
+Foundational Training
 
 Getting Started with Oracle Cloud Infrastructure
+
 
 ---
 
