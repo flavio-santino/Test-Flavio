@@ -6,7 +6,7 @@ Getting Started with Oracle Cloud Infrastructure
 
 ---
 
-### Regions + Avaiability Domains + Backbone Network 
+ #### Regions + Avaiability Domains + Backbone Network 
 
 @size[0.5em](- Regions serve different geographies – provide Disaster Recovery capability)
 - Availability Domains – provide a High Availability foundation within a region
