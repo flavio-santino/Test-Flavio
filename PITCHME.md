@@ -13,6 +13,4 @@ Getting Started with Oracle Cloud Infrastructure
 - @size[0.6em](Backbone Network + Peering – private connectivity between regions and direct peering)
 
 ![](regions.png)
----
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
